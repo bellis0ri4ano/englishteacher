@@ -1,7 +1,7 @@
 # projeto báscio desenvolvido para aprendizado em Python - Por Izabelli Soriano
 
 import os
-import sstreamlit as st
+import streamlit as st
 import google.generativeai as genai
 
 #Configuração da página com o Streamlit
